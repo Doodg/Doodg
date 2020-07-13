@@ -5,7 +5,9 @@
 :man_student:Got a post graduate Diploma in Business information system in 2018.<br>
 :books:Currently, I preparing for a master's degree.<br>
 :thought_balloon:Feel free to ask  about my stack.<br>
+:eyeglasses:I'm looking to contribute to open source projects.<br>
 :newspaper:Find more about me  on [LinkedIn](https://www.linkedin.com/in/mahmoud-hesham-421b3270/)<br>
+
 
 
 #### Technolgy Stack
