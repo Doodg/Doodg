@@ -1,12 +1,11 @@
 
 ## Hey there, I'm Mahmoud Hesham! 👋
-:man_technologist:I'm working as a software engineer .<br>
-:man_student:Graduated with Bachelor's degree in 2016.<br>
-:man_student:Got a post graduate Diploma in Business information system in 2018.<br>
-:books:Currently, I preparing for a master's degree.<br>
-:thought_balloon:Feel free to ask  about my stack.<br>
-:eyeglasses:I'm looking to contribute to open source projects.<br>
-:newspaper:Find more about me  on [LinkedIn](https://www.linkedin.com/in/mahmoud-hesham-421b3270/)<br>
+:man_technologist: I'm working as a software engineer .<br>
+:man_student: Graduated with Bachelor's degree in CS.<br>
+:man_student: Got a Postgraduate Diploma in Business information systems.<br>
+:thought_balloon: Feel free to ask  about my stack.<br>
+:eyeglasses: I'm looking to contribute to open-source projects.<br>
+:newspaper: Find more about me  on [LinkedIn](https://www.linkedin.com/in/mahmoud-hesham-421b3270/)<br>
 
 
 
@@ -17,7 +16,7 @@
  <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" width="30" hieght="30" />
  <img src="https://cdn.iconscout.com/icon/free/png-256/jenkins-1-282385.png" width="30" hieght="30" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/docker-226091.png" width="30" hieght="30" />
-#### My Artical
+#### My Article
 -  [SharedPrefrences becomes live with Live data](https://dev.to/doodg/sharedprefrences-becomes-live-with-live-data-545g)
 
 ### Contact Me
