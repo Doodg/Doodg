@@ -1,5 +1,5 @@
 
-## Hey there:collision: I'm Mahmoud Hesham! 👋
+## Hey there, I'm Mahmoud Hesham! 👋
 :man_technologist:I'm working as a software engineer @ Orange Labs Egypt since Jan 2017.<br>
 :man_student:Graduated with Bachelor's degree in 2016.<br>
 :man_student:Got a post graduate Diploma in Business information system in 2018.<br>
